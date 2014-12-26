@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Type=sddm-theme
+Name=Maui Project
+Description=Official theme from the Maui Project
+Author=Pier Luigi Fiorini
+Email=pierluigi.fiorini@gmail.com
+Copyright=(C) 2014 Pier Luigi Fiorini
+License=CC-BY-SA
+Version=0.1
+Website=http://www.maui-project.org
+Screenshot=mauiproject.jpg
+ConfigFile=theme.conf
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=mauiproject
+Theme-API=2.0

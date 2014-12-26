@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Service
+Name=PSS (Desktop)
+Comment=PSS environment for desktops
+Keywords=
+
+X-KDE-ServiceTypes=Plasma/Shell
+X-KDE-ParentApp=
+
+X-KDE-PluginInfo-Author=Pier Luigi Fiorini
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=pierluigi.fiorini@maui-project.org
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=org.pss.shells.desktop
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.maui-project.org
+
+X-Plasma-MainScript=layout.js

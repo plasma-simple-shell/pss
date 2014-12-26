@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Service
+Name=Gradient
+Comment=Horizontal or vertical gradient
+Icon=preferences-desktop-color
+Keywords=
+
+X-KDE-ServiceTypes=Plasma/Wallpaper
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Pier Luigi Fiorini
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=pierluigi.fiorini@maui-project.org
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=org.pss.wallpapers.gradient
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=http://www.maui-project.org
+X-Plasma-MainScript=ui/main.qml

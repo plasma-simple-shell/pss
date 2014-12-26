@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=plasmashell --shut-up -p org.pss.shells.desktop
+Name=PSS Desktop Workspace
+OnlyShowIn=KDE;
+X-KDE-StartupNotify=false
+X-KDE-autostart-phase=0
+X-DBUS-ServiceName=org.kde.plasmashell
+X-DBUS-StartupType=Unique

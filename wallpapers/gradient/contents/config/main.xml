@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="General">
+    <entry name="Orientation" type="String">
+      <label>Gradient orientation</label>
+      <default>vertical</default>
+    </entry>
+
+    <entry name="PrimaryColor" type="Color">
+      <label>Primary color</label>
+      <default>#336699</default>
+    </entry>
+
+    <entry name="SecondaryColor" type="Color">
+      <label>Secondary color</label>
+      <default>#3d5468</default>
+    </entry>
+  </group>
+
+</kcfg>

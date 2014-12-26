@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Service
+Name=PSS Desktop Shell
+Comment=PSS desktop view furniture
+Keywords=
+
+X-KDE-ServiceTypes=Plasma/Shell
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Pier Luigi Fiorini
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=pierluigi.fiorini@gmail.com
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=org.pss.shells.desktop
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-Plasma-MainScript=layout.js

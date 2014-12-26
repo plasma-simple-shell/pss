@@ -1,0 +1,22 @@
+[kdeglobals][General]
+desktopFont=Noto Sans,10,-1,5,50,0,0,0,0,0
+fixed=Oxygen Mono,9,-1,5,50,0,0,0,0,0
+font=Noto Sans,10,-1,5,50,0,0,0,0,0
+menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0
+taskbarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
+toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0
+ColorScheme=Breeze
+
+[kdeglobals][KDE]
+widgetStyle=qtcurve
+SingleClick=false
+
+[kdeglobals][Icons]
+Theme=maui
+
+[plasmarc][Theme]
+name=maui
+
+[kcminputrc][Mouse]
+cursorTheme=maui

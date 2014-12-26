@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Service
+Name=PSS look & feel
+Comment=PSS design language
+Keywords=Desktop, Workspace, Appearance, Look and Feel, Logout, Lock, Suspend, Shutdown, Hibernate
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Pier Luigi Fiorini
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=pierluigi.fiorini@gmail.com
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=org.pss.lookandfeel.desktop
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.maui-project.org
+X-Plasma-MainScript=defaults
